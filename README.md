@@ -4,5 +4,5 @@ from Dun and Bradstreet website: www.dnb.com
 
 
 Note:
-  Python file does NOT sort output list into a neat form. I used PGAdmin4 manually to get neat results.
+  Python file does NOT sort output list into a neat form. I used PGAdmin4 running custom SQL scripts to get neat results.
 
